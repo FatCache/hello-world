@@ -1,8 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Abdusamed's Pipeline</h1>
-    <h3>True Prune Command</h3>
-    <h1>Docker Test/h1>
+    <h4>Full Ansible to Docker Image Repo Pipeline Done. Grind 100% </h4>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
